@@ -18,21 +18,7 @@ All code is organized chapter-wise, following the book's flow.
 ┣ 📂chapter_02_machine_learning_basics
 ┣ 📂chapter_03_classification
 ┣ 📂chapter_04_training_models
-┣ 📂chapter_05_support_vector_machines
-┣ 📂chapter_06_decision_trees
-┣ 📂chapter_07_ensemble_learning
-┣ 📂chapter_08_dimensionality_reduction
-┣ 📂chapter_09_unsupervised_learning
-┣ 📂chapter_10_neural_nets_from_scratch
-┣ 📂chapter_11_training_dnn
-┣ 📂chapter_12_custom_models_and_training
-┣ 📂chapter_13_loading_and_preprocessing
-┣ 📂chapter_14_cnn
-┣ 📂chapter_15_rnn
-┣ 📂chapter_16_nlp
-┣ 📂chapter_17_autoencoders
-┣ 📂chapter_18_reinforcement_learning
-┗ 📂chapter_19_training_and_serving
+┣ .....WIll add more as Learn more
 ```
 
 ✅ Clean Python files  
